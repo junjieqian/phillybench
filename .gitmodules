@@ -1,0 +1,3 @@
+[submodule "src/nccl-tests"]
+	path = src/nccl-tests
+	url = https://github.com/NVIDIA/nccl-tests.git
